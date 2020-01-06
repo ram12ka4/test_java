@@ -4,6 +4,7 @@ public class SlidingWindow {
 
 	// Array = { 1, 8, 30, -5, 20, 7 };
 	// 0 1 2 3 4 5
+	
 
 	// First I will show u the code with running time O((n-k)*k)
 	public static int maxSumSubArr(int arr[], int k, int n) {
